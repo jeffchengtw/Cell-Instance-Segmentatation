@@ -12,3 +12,5 @@ https://drive.google.com/file/d/1-rXW2qSQjL7Zz8pBRhWy8c_ctGJvIQ8Z/view?usp=shari
 ```
 python infer.py
 ```
+
+# Test result
