@@ -15,3 +15,8 @@ python infer.py
 
 # Test result
 ![image](https://github.com/jeffchengtw/HW3/blob/main/result/TCGA-G9-6336-01Z-00-DX1.png)
+
+# Refrence
+https://github.com/siddhanthaldar/Mask-RCNN
+https://github.com/tnmichael309/kaggle-nuclei-segmentation
+https://github.com/siddhanthaldar/Mask-RCNN 
